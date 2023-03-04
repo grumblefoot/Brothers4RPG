@@ -1,4 +1,4 @@
-# brothers4_rpg
+# Brothers4RPG
 
 First Flutter project.
 
